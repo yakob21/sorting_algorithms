@@ -1,4 +1,3 @@
-101-cocktail_sort_list.c
 #include "sort.h"
 
 void swap_node_ahead(listint_t **list, listint_t **tail, listint_t **shaker);

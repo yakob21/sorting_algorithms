@@ -1,4 +1,3 @@
-102-counting_sort.c
 #include "sort.h"
 
 /**
